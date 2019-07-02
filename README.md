@@ -4,14 +4,14 @@ calculation on Raspberry PI
 
 ## Required hardware:
 - **DSLR camera.** I'm using a Cannon T3i, Folks at LBNL use the Cannon D60. Any
-APS-C frame interchangeable DSLR camera, gphoto2 compatability, exposure adjustment,
+APS-C frame interchangeable DSLR camera with gphoto2 compatability, exposure adjustment,
 and aperature and shutter control should work.
-- **Camera AC adapter.** Allows you to power your camera from an outlet. Ensure you get the correct version for your camera. This one works nicely for the [T3i](https://www.amazon.com/gp/product/B0092F974E/) and [D60](https://shop.usa.canon.com/shop/en/catalog/ac-adapter-kit-ack-e6)
+- **Camera AC adapter.** Allows you to power your camera from an outlet. Ensure you get the correct version for your camera. This one works nicely for the [T3i](https://www.amazon.com/gp/product/B0092F974E/) and for the [D60](https://shop.usa.canon.com/shop/en/catalog/ac-adapter-kit-ack-e6)
 - **Fisheye Lens.** The standard is the [Sigma 4.5mm F2.8 EX DC
 HSM](https://www.sigma-global.com/en/lenses/others/wide/45_28/).
 - **Raspberry Pi.** I'm using a [model 3B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/).
 - **LI-COR LI210 Photometer.** Eye-level vertical illumance sensor. Can be purchased from [EME Systems](https://emesystems.com/licor/buy.html).
-- **LI-COR Hot Shoe Mount.** The LI-COR sensor needs to be mounted as close to the camera lens as possible to measure vertical illumance. A hot shoe mount can be 3D printed from the stl models in the [`hardware/licor-mount` directory](https://github.com/lab11/glaRePI/tree/master/hardware/licor-mount).
+- **LI-COR Hot Shoe Mount.** The LI-COR sensor needs to be mounted as close to the camera lens as possible to measure vertical illumance. A hot shoe mount can be 3D printed from the STL models in the [`hardware/licor-mount` directory](https://github.com/lab11/glaRePI/tree/master/hardware/licor-mount).
 - **UTA (Universal Transconductance Amplifier).** Amplifies signal from LI-COR
 sensor to be used by a data logger. Can also be purchased from [EME
 Systems](https://emesystems.com/uta/main.html). Order the 2.5V (HOBO) output.
