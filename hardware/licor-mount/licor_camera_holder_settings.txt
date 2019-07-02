@@ -1,0 +1,13 @@
+Application version: 2.9.0.0
+Estimated print time: 4h 0m
+Material usage: 9.56m (24g)
+Printer: Zortrax M300
+Profile: Last settings
+Support type: Editable
+Gap XY: 0.36
+Spacing: 4.00
+Material: Z-HIPS
+Nozzle diameter: 0.4 mm
+Layer: 0.14 mm
+Quality: High
+Infill: 20%

@@ -11,6 +11,7 @@ and aperature and shutter control should work.
 HSM](https://www.sigma-global.com/en/lenses/others/wide/45_28/).
 - **Raspberry Pi.** I'm using a [model 3B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/).
 - **LI-COR LI210 Photometer.** Eye-level vertical illumance sensor. Can be purchased from [EME Systems](https://emesystems.com/licor/buy.html).
+- **LI-COR Hot Shoe Mount.** The LI-COR sensor needs to be mounted as close to the camera lens as possible to measure vertical illumance. A hot shoe mount can be 3D printed from the stl models in the [`hardware/licor-mount` directory](https://github.com/lab11/glaRePI/tree/master/hardware/licor-mount).
 - **UTA (Universal Transconductance Amplifier).** Amplifies signal from LI-COR
 sensor to be used by a data logger. Can also be purchased from [EME
 Systems](https://emesystems.com/uta/main.html). Order the 2.5V (HOBO) output.
