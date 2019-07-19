@@ -1,0 +1,4 @@
+sq(x):x*x;
+ar=PI/2*sqrt(sq(2/xmax*x-1)+sq(2/ymax*y-1));
+cf=WE*sq(PI*2/(xmax+ymax))*if(ar-PI/2,0,if(ar-.01,cos(ar)*sin(ar)/ar,1));
+lo=cf*li(1); 
